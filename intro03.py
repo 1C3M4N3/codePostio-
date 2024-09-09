@@ -1,0 +1,1 @@
+print("On! On! Ye Cougars!\nWe will fight for victory!\nOn! On! Ye Cougars!\nWe have the pride for all to see!")
