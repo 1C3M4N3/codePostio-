@@ -1,0 +1,1 @@
+[DISCLAIMER]: just a bunch of codepost assignments that i wrote, do not copy and paste these, these are just ideas and methods on how to do the assignments so i will not be responsible for cheating!!!!!!!!!!
